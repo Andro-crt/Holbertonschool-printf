@@ -1,2 +1,1 @@
-# Holbertonschool-printf
-Printing functions
+readme
